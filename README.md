@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfianRapa&theme=github_dark)
+I'm Alfian Rafa, a 16-year-old student at SMK Negeri 1 Jenangan. I'm passionate about web development and enjoy reading novels and manhwa.
 ~~~
 **alfianRapa/alfianRapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
