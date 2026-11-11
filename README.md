@@ -14,3 +14,4 @@ I'm Alfian Rafa, a 16-year-old student at SMK Negeri 1 Jenangan. I'm passionate 
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://svgl.app/library/tailwindcss.svg" alt="Tailwindcss" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://svgl.app/library/python.svg" alt="Python" width="40" height="40"/></a>
 <a href="https://www.nodejs.org/" target="_blank"><img src="https://svgl.app/library/nodejs.svg" alt="Nodejs" width="40" height="40"/></a>
+ <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
